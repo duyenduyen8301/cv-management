@@ -1,0 +1,9 @@
+{
+	"common": {
+		"somethingWentWrong": "何かがうまくいかなかった!"
+	},
+	"login": {
+		"loginSuccess": "ログイン成功",
+		"loginFailed": "ログイン失敗"
+	}
+}
